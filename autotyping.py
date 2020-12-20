@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 while True:
-    pyautogui.typewrite("Cake Katbi na???")
+    pyautogui.typewrite("Text You Want to Write automatically")
     time.sleep(3)
     pyautogui.press('enter')
 
